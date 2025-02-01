@@ -1,6 +1,6 @@
 Challenge: [Build Your Own Markdown To PDF Editor](https://codingchallenges.fyi/challenges/challenge-md-to-pdf/)
 
-###Steps to run:
+### Steps to run:
 1. Clone
 2. cd frontend
 3. npm install
